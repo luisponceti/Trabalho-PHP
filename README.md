@@ -1,6 +1,6 @@
 # Trabalho-PHP  <h1>
->Repositório contendo o Trabalho de PHP.
->Código desenvolvido em PHP
->Foi utilizado o Sulbime Text 3.
-Ass.
-Luís Fernando Chicoski Ponceti.
+>\nRepositório contendo o Trabalho de PHP.
+>\nCódigo desenvolvido em PHP.
+>\nFoi utilizado o Sulbime Text 3.
+\nAss.
+\nLuís Fernando Chicoski Ponceti.
